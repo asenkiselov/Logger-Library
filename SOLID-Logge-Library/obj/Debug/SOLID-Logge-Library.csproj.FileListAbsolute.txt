@@ -1,0 +1,5 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLID-Logge-Library\bin\Debug\SOLID-Logge-Library.dll
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLID-Logge-Library\bin\Debug\SOLID-Logge-Library.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLID-Logge-Library\obj\Debug\SOLID-Logge-Library.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLID-Logge-Library\obj\Debug\SOLID-Logge-Library.dll
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLID-Logge-Library\obj\Debug\SOLID-Logge-Library.pdb

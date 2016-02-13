@@ -1,0 +1,8 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLIDLogger\bin\Debug\SOLIDLogger.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLIDLogger\bin\Debug\SOLIDLogger.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLIDLogger\bin\Debug\SOLIDLogger.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLIDLogger\bin\Debug\SOLID-Logge-Library.dll
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLIDLogger\bin\Debug\SOLID-Logge-Library.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLIDLogger\obj\Debug\SOLIDLogger.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLIDLogger\obj\Debug\SOLIDLogger.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\KPK\SOLID-Logge-Library\SOLIDLogger\obj\Debug\SOLIDLogger.pdb
